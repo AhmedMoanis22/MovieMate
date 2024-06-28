@@ -15,37 +15,35 @@ FlutterFlicks is a cutting-edge movie and series streaming app developed using F
 - **Detailed Information**: Get comprehensive details, including descriptions, ratings, video trailers, crew information, and similar movies or series.
 - **Search Functionality**: Easily search for any movie or series.
 
+## Screenshots
+
 ### Login Screen
-![Login Screen](screenshots/login.jpg)
+<img src="screenshots/login.jpg" alt="Login Screen" width="200">
 
 ### Signup Screen
-![Signup Screen](screenshots/signup.jpg)
+<img src="screenshots/signup.jpg" alt="Signup Screen" width="200">
 
 ### Movie Screen
-![Movie Screen](screenshots/movie.jpg)
+<img src="screenshots/movie.jpg" alt="Movie Screen" width="200">
 
 ### Movie Details
-![Movie Details](screenshots/movie_details1.jpg)
-![Movie Details](screenshots/movie_details2.jpg)
+<img src="screenshots/movie_details1.jpg" alt="Movie Details" width="200">
+<img src="screenshots/movie_details2.jpg" alt="Movie Details" width="200">
 
 ### Movie View
-![Movie Details](screenshots/movie_view.jpg)
+<img src="screenshots/movie_view.jpg" alt="Movie View" width="200">
 
-### Tv Screen
-![TV Screen](screenshots/tv.jpg)
-![TV Screen](screenshots/tv2.jpg)
+### TV Screen
+<img src="screenshots/tv.jpg" alt="TV Screen" width="200">
+<img src="screenshots/tv2.jpg" alt="TV Screen" width="200">
 
-### Tv Details
-![TV Screen](screenshots/series_details.jpg)
-![TV Screen](screenshots/series_details2.jpg)
-
-### Tv Details
-![TV Screen](screenshots/series_details.jpg)
-![TV Screen](screenshots/series_details2.jpg)
+### TV Details
+<img src="screenshots/series_details.jpg" alt="TV Details" width="200">
+<img src="screenshots/series_details2.jpg" alt="TV Details" width="200">
 
 ### Search Screen
-![TV Screen](screenshots/search.jpg)
-![TV Screen](screenshots/search2.jpg)
+<img src="screenshots/search.jpg" alt="Search Screen" width="200">
+<img src="screenshots/search2.jpg" alt="Search Screen" width="200">
 
 ## Installation
 
