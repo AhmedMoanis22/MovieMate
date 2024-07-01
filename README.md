@@ -1,7 +1,7 @@
 # MovieMate
 
 
-FlutterFlicks is a cutting-edge movie and series streaming app developed using Flutter. This app leverages the MVVM architecture, Firebase for authentication, and follows clean code principles with Cubit state management. The user interface is enriched with smooth animations, providing a delightful experience for users.
+MovieMate is a cutting-edge movie and series streaming app developed using Flutter. This app leverages the MVVM architecture, Firebase for authentication, and follows clean code principles with Cubit state management. The user interface is enriched with smooth animations, providing a delightful experience for users.
 
 ## Features
 
