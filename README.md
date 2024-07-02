@@ -18,33 +18,8 @@ MovieMate is a cutting-edge movie and series streaming app developed using Flutt
 
 ## Screenshots
 
-### Login Screen
-<img src="screenshots/login.jpg" alt="Login Screen" width="200">
-
-### Signup Screen
-<img src="screenshots/signup.jpg" alt="Signup Screen" width="200">
-
-### Movie Screen
-<img src="screenshots/movie.jpg" alt="Movie Screen" width="200">
-
-### Movie Details
-<img src="screenshots/movie_details1.jpg" alt="Movie Details" width="200">
-<img src="screenshots/movie_details2.jpg" alt="Movie Details" width="200">
-
-### Movie View
-<img src="screenshots/movie_view.jpg" alt="Movie View" width="200">
-
-### TV Screen
-<img src="screenshots/tv.jpg" alt="TV Screen" width="200">
-<img src="screenshots/tv2.jpg" alt="TV Screen" width="200">
-
-### TV Details
-<img src="screenshots/series_details.jpg" alt="TV Details" width="200">
-<img src="screenshots/series_details2.jpg" alt="TV Details" width="200">
-
-### Search Screen
-<img src="screenshots/search.jpg" alt="Search Screen" width="200">
-<img src="screenshots/search2.jpg" alt="Search Screen" width="200">
+<img src="https://github.com/AhmedMoanis22/MovieMate/assets/150537134/d3db17fc-bf35-4a00-8395-0b2595629921" alt="Image 1" width="300"/>
+<img src="https://github.com/AhmedMoanis22/MovieMate/assets/150537134/868a13aa-d24a-4e62-ac78-d9ae52b8ea64" alt="Image 2" width="300"/>
 
 ## Installation
 
